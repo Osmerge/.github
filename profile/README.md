@@ -10,7 +10,7 @@
 <table>
 <tr>
 <th><a href="https://www.roblox.com/users/1794666003/profile"><img src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/main/profile/wiseoragne.png" width="150" height="150"></a></th>
-<th><h3>Roblox: <a href="https://www.roblox.com/users/1794666003/profile">@wiseoragne</a></h3><h3>GitHub: <a href="https://github.com/orn8">@orn8</a></h3><p>Founder, Lead Producer, Lead Scripter, SFX/VFX</p></th>
+<th><h3>Roblox: <a href="https://www.roblox.com/users/1794666003/profile">@wiseoragne</a></h3><h3>GitHub: <a href="https://github.com/orn8">@orn8</a></h3><p>Founder, Lead Producer, Lead Scripter, SFX/VFX, Animator</p></th>
 <tr>
 <tr>
 <th><a href="https://www.roblox.com/users/3305086051/profile"><img src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/main/profile/KingTJ925.png" width="150" height="150"></a></th>
