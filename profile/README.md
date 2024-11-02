@@ -22,3 +22,11 @@
 <tr>
 </table>
 </div>
+
+---
+
+<h3>Our experiences are powered by:</h3><br>
+
+<a href="https://create.roblox.com"><img src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/main/profile/studio.png" width="250" height="250"></a>
+<a href="https://rojo.space"><img src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/main/profile/rojo.png" width="250" height="250"></a>
+<a href="https://sleitnick.github.io/AeroGameFramework"><img src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/main/profile/agf.png" width="250" height="250"></a>
