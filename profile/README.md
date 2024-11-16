@@ -10,7 +10,7 @@
 <table>
 <tr>
 <th><a href="https://www.roblox.com/users/1794666003/profile"><img src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/main/profile/wiseoragne.png" width="150" height="150" title="@wiseoragne's Roblox Avatar" alt="@wiseoragne's Roblox Avatar"></a></th>
-<th><h3>Roblox: <a href="https://www.roblox.com/users/1794666003/profile">&nbsp;<img align="center" src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/test1/profile/wiseoragnegradient.png" width="131.23" height="20" alt="@wiseoragne"></a></h3><h3>GitHub: <a href="https://github.com/orn8">&nbsp;<img align="center" src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/test1/profile/orn8gradient.png" width="70.2" height="20" alt="@onr8"></a></h3><p>Founder, Lead Producer, Lead Scripter, SFX/VFX</p></th>
+<th><h3>Roblox: <a href="https://www.roblox.com/users/1794666003/profile">&nbsp;<img align="center" src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/test1/profile/wiseoragnegradient.png" width="131.23" height="20" alt="@wiseoragne"></a></h3><h3>GitHub: <a href="https://github.com/orn8">&nbsp;<img align="center" src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/test1/profile/orn8gradient.png" width="50.26" height="16" alt="@onr8"></a></h3><p>Founder, Lead Producer, Lead Scripter, SFX/VFX</p></th>
 <tr>
 <tr>
 <th><a href="https://www.roblox.com/users/3305086051/profile"><img src="https://raw.githubusercontent.com/Osmerge/.github/refs/heads/main/profile/KingTJ925.png" width="150" height="150" title="@KingTJ925's Roblox Avatar" alt="@KingTJ925's Roblox Avatar"></a></th>
