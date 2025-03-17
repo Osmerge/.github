@@ -32,10 +32,12 @@
 <tr>
 <th><a href="https://create.roblox.com"><img src="studio.png" width="250" height="250" title="Roblox Studio Logo" alt="Roblox Studio Logo"></a></th>
 <th><a href="https://rojo.space"><img src="rojo.png" width="250" height="112.79296875" title="Rojo Logo" alt="Rojo Logo"></a></th>
+<th><a href="https://code.visualstudio.com"><img src="vscode.png" width="250" height="250" title="Visual Studio Code Logo" alt="Visual Studio Code Logo"></a></th>
 </tr>
 <tr>
 <th><h3><a href="https://create.roblox.com">Roblox Studio</a></h3></th>
 <th><h3><a href="https://rojo.space">Rojo</a></h3></th>
+<th><h3><a href="https://code.visualstudio.com">Visual Studio Code</a></h3></th>
 </tr>
 </table>
 </div>
