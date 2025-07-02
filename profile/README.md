@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://www.roblox.com/groups/16254996/Osmerge"><img src="osmsname.png" width="500" height="500" title="Osmerge Logo" alt="Osmerge Logo"></a>
 
-<h3>Hey there! We're <a href="https://www.roblox.com/groups/16254996/Osmerge">Osmerge</a>, a studio of 3 Roblox developers creating the best Roblox experiences around.</h3>
+<h3>Hey there! We're <a href="https://www.roblox.com/groups/16254996/Osmerge">Osmerge</a>, a studio of 2 Roblox developers creating the best Roblox experiences around.</h3>
 </div>
 
 ---
