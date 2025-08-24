@@ -12,10 +12,6 @@
 <th><a href="https://www.roblox.com/users/1794666003/profile"><img src="wiseoragne.png" width="150" height="150" title="@wiseoragne's Roblox Avatar" alt="@wiseoragne's Roblox Avatar"></a></th>
 <th><h3>Roblox: <a href="https://www.roblox.com/users/1794666003/profile">&nbsp;<img align="center" src="wiseoragnegradient.png" width="131.23" height="20" alt="@wiseoragne"></a></h3><h3>GitHub: <a href="https://github.com/orn8">&nbsp;<img align="center" src="orn8gradient.png" width="62.82" height="20" alt="@orn8"></a></h3><p>Executive Producer, Scripter,<br>Audio Engineer, Animator</p></th>
 <tr>
-<tr>
-<th><a href="https://www.roblox.com/users/2681269413/profile"><img src="Lightning_Bolt1203.png" width="150" height="150" title="@Lightning_Bolt1203's Roblox Avatar" alt="@Lightning_Bolt1203's Roblox Avatar"></a></th>
-<th><h3>Roblox: <a href="https://www.roblox.com/users/2681269413/profile">@Lightning_Bolt1203</a></h3><h3>GitHub: <a href="https://github.com/Mangoo12-cpu">@Mangoo12-cpu</a></h3><p>Scripter, Builder, VFX Artist,<br>GFX Designer, Modeller</p></th>
-<tr>
 </table>
 </div>
 
